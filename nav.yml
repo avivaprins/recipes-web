@@ -1,17 +1,8 @@
 nav:
   - Home: index.md
   - recipes
-  - tags/breakfast.md
-  - tags/main.md
-  - tags/side.md
-  - tags/soup.md
-  - tags/noodles.md
-  - tags/dessert.md
-  - tags/dairy.md
-  - tags/pareve.md
-  - tags/meat.md
-  - tags/nonkosher.md
-  - tags/savta.md
-  - tags/grandma.md
+  - tags/meals.md
+  - tags/kosher.md 
+  - tags/family.md
   - Tags: tags/index.md
   - Ingredients: ingredients/index.md
