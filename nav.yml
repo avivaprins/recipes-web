@@ -2,6 +2,7 @@ nav:
   - Home: index.md
   - recipes
   - tags/meals.md
+  - tags/food group.md
   - tags/kosher.md 
   - tags/family.md
   - Tags: tags/index.md
