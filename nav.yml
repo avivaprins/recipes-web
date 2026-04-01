@@ -1,5 +1,5 @@
 nav:
-  - Home: recipes
-  - Tags: tags/index.md
-  - Ingredients: ingredients/index.md
+  - Recipes: 
+    - index.md
+    - '*.md'
   - Search: search/index.md
