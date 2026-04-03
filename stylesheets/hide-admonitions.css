@@ -1,3 +1,4 @@
 .md-typeset .admonition-title:before,
 .md-typeset summary:before {
+	all: unset;
 }
